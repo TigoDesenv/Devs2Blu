@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/11/29 20:44:06.000.332,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/11/29 20:48:35.000.188,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\01\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2022/11/29 20:48:35.000.188,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\01\ufrmPrincipal.pas</Transaction>
+    <Transaction>2022/11/29 20:48:43.000.773,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\01\InfoComputador.dproj</Transaction>
+    <Transaction>2022/11/29 20:50:28.000.686,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\01\Unit1.pas</Transaction>
+    <Transaction>2022/11/29 20:50:38.000.538,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\01\Unit1.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\01\uInfoPC.pas</Transaction>
+  </Transactions>
+</BorlandProject>

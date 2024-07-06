@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/01 18:21:25.000.056,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/01 18:22:11.000.043,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Manipulação de Arquivos\01\ufrmPrincipal.pas</Transaction>
+    <Transaction>2022/12/01 18:22:11.000.043,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Manipulação de Arquivos\01\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2022/12/01 18:22:18.000.676,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Manipulação de Arquivos\01\CriandoArquivoTexto.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

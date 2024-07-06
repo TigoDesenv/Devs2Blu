@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/09/10 19:12:03.000.928,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/09/10 19:13:44.000.406,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\10 - Debugger\ufrmDebugger.dfm</Transaction>
+    <Transaction>2022/09/10 19:13:44.000.406,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\10 - Debugger\ufrmDebugger.pas</Transaction>
+    <Transaction>2022/09/10 19:13:49.000.805,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\10 - Debugger\Debugger.dproj</Transaction>
+    <Transaction>2022/09/10 19:21:25.000.701,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\10 - Debugger\Unit1.pas</Transaction>
+    <Transaction>2022/09/10 19:21:33.000.234,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\10 - Debugger\Unit1.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\10 - Debugger\UCalculadora.pas</Transaction>
+  </Transactions>
+</BorlandProject>

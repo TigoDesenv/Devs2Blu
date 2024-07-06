@@ -1,0 +1,228 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{EBB5496B-0DDB-4B70-B553-1308D7A30518}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Project5.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Firemonkey\01\ToDoList_Delphi.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Firemonkey\02\NetFlix_Delphi.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Firemonkey\03\MercadoLivre_Delphi.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Firemonkey\IMC\Projeto\IMC.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Firemonkey\JogoVelha\JogoVelha.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Firemonkey\Menu\Project1.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Generics\01\Generics_1.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Generics\02\Generics_2.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Generics\03\Generics_3.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Generics\04\Generics_04.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Generics\05\Generics_5.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Generics\06\Generics_6.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Generics\07\TQueue.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Generics\08\Stack.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Generics\09\Dictionary.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Generics\10\Test\HospitalTests.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Project5">
+        <MSBuild Projects="Project5.dproj"/>
+    </Target>
+    <Target Name="Project5:Clean">
+        <MSBuild Projects="Project5.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project5:Make">
+        <MSBuild Projects="Project5.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ToDoList_Delphi">
+        <MSBuild Projects="..\..\Firemonkey\01\ToDoList_Delphi.dproj"/>
+    </Target>
+    <Target Name="ToDoList_Delphi:Clean">
+        <MSBuild Projects="..\..\Firemonkey\01\ToDoList_Delphi.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ToDoList_Delphi:Make">
+        <MSBuild Projects="..\..\Firemonkey\01\ToDoList_Delphi.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="NetFlix_Delphi">
+        <MSBuild Projects="..\..\Firemonkey\02\NetFlix_Delphi.dproj"/>
+    </Target>
+    <Target Name="NetFlix_Delphi:Clean">
+        <MSBuild Projects="..\..\Firemonkey\02\NetFlix_Delphi.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="NetFlix_Delphi:Make">
+        <MSBuild Projects="..\..\Firemonkey\02\NetFlix_Delphi.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="MercadoLivre_Delphi">
+        <MSBuild Projects="..\..\Firemonkey\03\MercadoLivre_Delphi.dproj"/>
+    </Target>
+    <Target Name="MercadoLivre_Delphi:Clean">
+        <MSBuild Projects="..\..\Firemonkey\03\MercadoLivre_Delphi.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="MercadoLivre_Delphi:Make">
+        <MSBuild Projects="..\..\Firemonkey\03\MercadoLivre_Delphi.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="IMC">
+        <MSBuild Projects="..\..\Firemonkey\IMC\Projeto\IMC.dproj"/>
+    </Target>
+    <Target Name="IMC:Clean">
+        <MSBuild Projects="..\..\Firemonkey\IMC\Projeto\IMC.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="IMC:Make">
+        <MSBuild Projects="..\..\Firemonkey\IMC\Projeto\IMC.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="JogoVelha">
+        <MSBuild Projects="..\..\Firemonkey\JogoVelha\JogoVelha.dproj"/>
+    </Target>
+    <Target Name="JogoVelha:Clean">
+        <MSBuild Projects="..\..\Firemonkey\JogoVelha\JogoVelha.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="JogoVelha:Make">
+        <MSBuild Projects="..\..\Firemonkey\JogoVelha\JogoVelha.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project1">
+        <MSBuild Projects="..\..\Firemonkey\Menu\Project1.dproj"/>
+    </Target>
+    <Target Name="Project1:Clean">
+        <MSBuild Projects="..\..\Firemonkey\Menu\Project1.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project1:Make">
+        <MSBuild Projects="..\..\Firemonkey\Menu\Project1.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Generics_1">
+        <MSBuild Projects="..\..\Generics\01\Generics_1.dproj"/>
+    </Target>
+    <Target Name="Generics_1:Clean">
+        <MSBuild Projects="..\..\Generics\01\Generics_1.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Generics_1:Make">
+        <MSBuild Projects="..\..\Generics\01\Generics_1.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Generics_2">
+        <MSBuild Projects="..\..\Generics\02\Generics_2.dproj"/>
+    </Target>
+    <Target Name="Generics_2:Clean">
+        <MSBuild Projects="..\..\Generics\02\Generics_2.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Generics_2:Make">
+        <MSBuild Projects="..\..\Generics\02\Generics_2.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Generics_3">
+        <MSBuild Projects="..\..\Generics\03\Generics_3.dproj"/>
+    </Target>
+    <Target Name="Generics_3:Clean">
+        <MSBuild Projects="..\..\Generics\03\Generics_3.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Generics_3:Make">
+        <MSBuild Projects="..\..\Generics\03\Generics_3.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Generics_04">
+        <MSBuild Projects="..\..\Generics\04\Generics_04.dproj"/>
+    </Target>
+    <Target Name="Generics_04:Clean">
+        <MSBuild Projects="..\..\Generics\04\Generics_04.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Generics_04:Make">
+        <MSBuild Projects="..\..\Generics\04\Generics_04.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Generics_5">
+        <MSBuild Projects="..\..\Generics\05\Generics_5.dproj"/>
+    </Target>
+    <Target Name="Generics_5:Clean">
+        <MSBuild Projects="..\..\Generics\05\Generics_5.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Generics_5:Make">
+        <MSBuild Projects="..\..\Generics\05\Generics_5.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Generics_6">
+        <MSBuild Projects="..\..\Generics\06\Generics_6.dproj"/>
+    </Target>
+    <Target Name="Generics_6:Clean">
+        <MSBuild Projects="..\..\Generics\06\Generics_6.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Generics_6:Make">
+        <MSBuild Projects="..\..\Generics\06\Generics_6.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="TQueue">
+        <MSBuild Projects="..\..\Generics\07\TQueue.dproj"/>
+    </Target>
+    <Target Name="TQueue:Clean">
+        <MSBuild Projects="..\..\Generics\07\TQueue.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="TQueue:Make">
+        <MSBuild Projects="..\..\Generics\07\TQueue.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Stack">
+        <MSBuild Projects="..\..\Generics\08\Stack.dproj"/>
+    </Target>
+    <Target Name="Stack:Clean">
+        <MSBuild Projects="..\..\Generics\08\Stack.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Stack:Make">
+        <MSBuild Projects="..\..\Generics\08\Stack.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Dictionary">
+        <MSBuild Projects="..\..\Generics\09\Dictionary.dproj"/>
+    </Target>
+    <Target Name="Dictionary:Clean">
+        <MSBuild Projects="..\..\Generics\09\Dictionary.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Dictionary:Make">
+        <MSBuild Projects="..\..\Generics\09\Dictionary.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="HospitalTests">
+        <MSBuild Projects="..\..\Generics\10\Test\HospitalTests.dproj"/>
+    </Target>
+    <Target Name="HospitalTests:Clean">
+        <MSBuild Projects="..\..\Generics\10\Test\HospitalTests.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="HospitalTests:Make">
+        <MSBuild Projects="..\..\Generics\10\Test\HospitalTests.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Project5;ToDoList_Delphi;NetFlix_Delphi;MercadoLivre_Delphi;IMC;JogoVelha;Project1;Generics_1;Generics_2;Generics_3;Generics_04;Generics_5;Generics_6;TQueue;Stack;Dictionary;HospitalTests"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Project5:Clean;ToDoList_Delphi:Clean;NetFlix_Delphi:Clean;MercadoLivre_Delphi:Clean;IMC:Clean;JogoVelha:Clean;Project1:Clean;Generics_1:Clean;Generics_2:Clean;Generics_3:Clean;Generics_04:Clean;Generics_5:Clean;Generics_6:Clean;TQueue:Clean;Stack:Clean;Dictionary:Clean;HospitalTests:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Project5:Make;ToDoList_Delphi:Make;NetFlix_Delphi:Make;MercadoLivre_Delphi:Make;IMC:Make;JogoVelha:Make;Project1:Make;Generics_1:Make;Generics_2:Make;Generics_3:Make;Generics_04:Make;Generics_5:Make;Generics_6:Make;TQueue:Make;Stack:Make;Dictionary:Make;HospitalTests:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
